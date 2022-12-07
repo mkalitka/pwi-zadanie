@@ -1,3 +1,3 @@
 # pwi-zadanie
 
-<<Zmiana pod pull requesta>>
+;;Zmiana pod pull requesta;;
